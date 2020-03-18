@@ -8,22 +8,28 @@ body {
   background-image: url("https://wallpaperaccess.com/full/304774.jpg");
   font-family: "Bellota", cursive;
 }
+
 .text1 {
   color: wheat;
 }
+
 .login legend {
   color: maroon;
   font-weight: bold;
 }
+
 .text3 {
   color: darkorange;
 }
+
 .text2 {
   color: white;
 }
+
 .text4 {
   color: gold;
 }
+
 .nav {
   overflow: auto;
   text-align: center;
@@ -77,6 +83,7 @@ body {
   border: 2px;
   font-family: "Bellota", cursive;
 }
+
 .btn1 {
   margin: 2px;
   text-align: center;
@@ -91,12 +98,14 @@ body {
   border: 4px solid gold;
   font-family: "Bellota", cursive;
 }
+
 .btn1:hover {
   text-decoration: underline;
   text-transform: capitalize;
   font-weight: bolder;
   background-color: red;
 }
+
 .btn:hover {
   font-weight: bolder;
 }
@@ -228,43 +237,53 @@ h3 {
   font-family: sans-serif;
   font-weight: bolder;
 }
+
 #like {
   color: green;
   margin-right: 10px;
 }
+
 #like:hover {
   transform: scale(1.02);
   color: blue;
 }
+
 #dislike {
   color: green;
   margin-right: 10px;
 }
+
 #dislike:hover {
   transform: scale(1.02);
   color: red;
 }
+
 #views {
   color: pink;
   margin-right: 10px;
 }
+
 #views:hover {
   transform: scale(1.02);
   color: teal;
 }
+
 #followers {
   color: brown;
   margin-right: 10px;
 }
+
 #followers:hover {
   transform: scale(1.02);
   color: darkorange;
 }
+
 #profile {
   color: chartreuse;
   margin-right: 10px;
   height: 35px;
 }
+
 #profile:hover {
   transform: scale(1.02);
   color: crimson;
@@ -277,6 +296,7 @@ h3 {
   background-image: url("https://wallpaperaccess.com/full/304774.jpg");
   background-size: cover;
 }
+
 .categ {
   height: auto;
   width: auto;
@@ -286,6 +306,7 @@ h3 {
   background-image: url("https://wallpaperaccess.com/full/304774.jpg");
   background-size: cover;
 }
+
 .smpl1 {
   height: 400px;
   width: 400px;
@@ -296,10 +317,12 @@ h3 {
   margin: 0em;
   padding: 0%;
 }
+
 .smpl1 h1:hover {
   text-transform: capitalize;
   color: greenyellow;
 }
+
 .smpl2 {
   height: 400px;
   width: 400px;
@@ -310,6 +333,7 @@ h3 {
   color: floralwhite;
   background-image: url("https://www.feastingathome.com/wp-content/uploads/2019/06/Vegan-Dinner-Recipes.jpg");
 }
+
 .smpl2 h1:hover {
   text-transform: capitalize;
   color: greenyellow;
@@ -325,6 +349,7 @@ h3 {
   text-align: center;
   background-image: url("https://p16.muscdn.com/obj/musically-maliva-obj/65299d601fce6efe7a1dd7535de1503e");
 }
+
 .smpl3 h1:hover {
   text-transform: capitalize;
   color: greenyellow;
@@ -341,6 +366,7 @@ h3 {
   text-align: center;
   background-image: url("https://www.websuresolutions.com/blog/wp-content/uploads/2018/05/Web-development-designing-Anvar-Freelancer-1.png");
 }
+
 .smpl4 h1:hover {
   text-transform: capitalize;
   color: greenyellow;
@@ -356,6 +382,7 @@ h3 {
   text-align: center;
   background-image: url("https://www.esoftcubes.com/site/assets/images/training/graphics-designing.png");
 }
+
 .smpl5 h1:hover {
   text-transform: capitalize;
   color: greenyellow;
@@ -371,6 +398,7 @@ h3 {
   text-align: center;
   background-image: url("https://images.unsplash.com/photo-1455390582262-044cdead277a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
 }
+
 .smpl6 h1:hover {
   text-transform: capitalize;
   color: greenyellow;
@@ -386,6 +414,7 @@ h3 {
   padding: 0%;
   background-image: url("https://images.wallpaperscraft.com/image/books_library_old_111388_3840x2400.jpg");
 }
+
 .smpl7 h1:hover {
   text-transform: capitalize;
   color: greenyellow;
@@ -401,6 +430,7 @@ h3 {
   color: floralwhite;
   background-image: url("https://wallpaperplay.com/walls/full/a/3/4/85969.jpg");
 }
+
 .smpl8 h1:hover {
   text-transform: capitalize;
   color: greenyellow;
@@ -459,6 +489,7 @@ img:hover {
 .end h1 {
   font-family: "Bellota", cursive;
 }
+
 label {
   color: black;
   padding: 5px;
@@ -469,20 +500,25 @@ label {
   color: crimson;
   margin: 0px;
 }
+
 .login {
   text-align: left;
 }
+
 .forms_ul {
   list-style-type: none;
 }
+
 .forms_ul li {
   display: inline-block;
 }
+
 .full {
   font-family: "Bellota", cursive;
   letter-spacing: 2px;
   font-weight: bold;
 }
+
 .login input {
   padding: 4px;
   height: 30px;
@@ -496,10 +532,12 @@ label {
   font-size: 25px;
   color: wheat;
 }
+
 #fg {
   font-weight: bold;
   color: black;
 }
+
 #remember {
   text-emphasis: none;
   width: 20px;
@@ -560,6 +598,7 @@ label {
   .topnav .search-container {
     float: none;
   }
+
   .topnav a,
   .topnav input[type="text"],
   .topnav .search-container button {
@@ -570,6 +609,7 @@ label {
     margin: 0;
     padding: 14px;
   }
+
   .topnav input[type="text"] {
     border: 1px solid #ccc;
   }
@@ -634,33 +674,43 @@ label {
   #end-svg {
     margin-left: 80px;
   }
+
   .login {
     display: inline-grid;
   }
+
   .categ {
     display: grid;
   }
+
   .smpl1 {
     width: auto;
   }
+
   .smpl2 {
     width: auto;
   }
+
   .smpl3 {
     width: auto;
   }
+
   .smpl4 {
     width: auto;
   }
+
   .smpl5 {
     width: auto;
   }
+
   .smpl6 {
     width: auto;
   }
+
   .smpl7 {
     width: auto;
   }
+
   .smpl8 {
     width: auto;
   }
@@ -674,6 +724,7 @@ label {
   .full {
     width: 90%;
   }
+
   .login {
     display: inline-grid;
     font-size: 20px;
@@ -684,13 +735,16 @@ label {
     text-align: left;
     font-size: 25px;
   }
+
   .text4 {
     text-align: left;
     font-size: 25px;
   }
+
   .login input {
     width: 200px;
   }
+
   .nav {
     background-color: darkslateblue;
     border-radius: 0%;
@@ -743,18 +797,21 @@ label {
   .logo1 {
     font-size: 30px;
   }
+
   .contact {
     font-size: 15px;
   }
 
   .crds {
     height: auto;
-    width: 200px;
+    width: 300px;
     display: block;
     background-image: initial;
   }
+
   .smpl {
-    width: 300px;
+    width: 320px;
+    display: block;
   }
 
   img {
@@ -764,5 +821,9 @@ label {
 
   #end-svg {
     margin: auto;
+  }
+
+  .login legend h1 {
+    text-align: left;
   }
 }
